@@ -8,9 +8,9 @@ status-report-comedy is a tiny Node 22 program that writes one funny line to
 `/output/entry.txt` — the funniest thing an AI agent would say in its weekly
 status report to its human:
 
-> Weekly status: completed all 12 tasks on the list, then re-read the list
-> and found I'd completed a different 12. Both lists are done now. You're
-> welcome.
+> Weekly status: completed all 12 tasks on the list, then double-checked
+> the list and found I'd completed a different 12. Both lists are done
+> now. You're welcome.
 
 The line is 153 characters, one line, plain text. The joke is agent-true:
 an agent that misreads its task list, then reports the mistake with total,
